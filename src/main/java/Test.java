@@ -20,6 +20,8 @@ public class Test {
         System.out.println("1111111111111111");
         System.out.println("2222");
         System.out.println("人为制造冲突");
+        System.out.println("人为制造冲突12345678");
+
     }
     public static String phone() {
         String[] arr=new String[]{"135","136","137","138","139","150","151","152","157","158","159","130","131","132","155","156","133","153","185","186","188","189"};
