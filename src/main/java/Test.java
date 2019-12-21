@@ -21,6 +21,7 @@ public class Test {
         System.out.println("2222");
         System.out.println("人为制造冲突");
         System.out.println("人为制造冲突12345678");
+        System.out.println("人为制造冲突哈哈哈哈哈");
 
     }
     public static String phone() {
